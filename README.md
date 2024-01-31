@@ -81,3 +81,9 @@ fn main() {
 ## Usage
 
 To use the program, simply run the provided Rust code. The main function demonstrates the functionality of the banking system by creating an account, depositing and withdrawing money, and checking the account balance.
+
+## Cargo Commands
+
+- **Running the Application**: Use `cargo run` to compile and run the Rust application.
+- **Checking for Errors**: Use `cargo check` to check for errors in the code without building the application.
+- **Building the Application**: Use `cargo build` to build the Rust application without running it.
